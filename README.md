@@ -1,1 +1,1 @@
-# ShadowFox - Python Development Internship
+# ShadowFox — Python Internship
